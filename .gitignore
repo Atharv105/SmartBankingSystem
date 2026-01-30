@@ -1,0 +1,12 @@
+# Backend
+target/
+*.log
+.idea/
+*.iml
+
+# Frontend
+node_modules/
+build/
+
+# OS
+.DS_Store
